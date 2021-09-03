@@ -1,0 +1,26 @@
+body {
+    font-family: Georgia, serif;
+}
+h1 {
+    text-align: center;
+}
+#orderForm {
+    background-color: #d61414;
+    color: azure;
+    border: 4px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    padding: 8px;
+    margin: 8px;
+    box-shadow: 10px 10px 5px #d61414;
+}
+button {
+    background-color: #000000;
+    border-color: #ffffff;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
